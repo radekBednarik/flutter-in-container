@@ -1,0 +1,5 @@
+{
+    "build": {"dockerfile": "Dockerfile"},
+    "extensions": ["dart-code.flutter"],
+    "forwardPorts": [3000, 5037],
+}
